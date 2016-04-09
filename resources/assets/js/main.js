@@ -8,32 +8,32 @@ var InfiniteScroll = require('react-infinite-scroll-component');
 // export default PhotoSwipe;
 // export default PhotoSwipeGallery;
 
-let items = [
-    {
-        idx: 'Curitiba',
-        title: 'Brazil',
-        src: 'http://lorempixel.com/1000/900/sports',
-        thumbnail: 'http://lorempixel.com/100/90/sports',
-        w: 1000,
-        h: 900
-    },
-    {
-        idx: 'New York',
-        title: 'United States',
-        src: 'http://lorempixel.com/1000/900/animals',
-        thumbnail: 'http://lorempixel.com/100/90/animals',
-        w: 1000,
-        h: 900
-    },
-    {
-        idx: 'Tokyo',
-        title: 'Japan',
-        src: 'http://lorempixel.com/1000/900/nature',
-        thumbnail: 'http://lorempixel.com/100/90/nature',
-        w: 1000,
-        h: 900
-    }
-];
+// let items = [
+//     {
+//         idx: 'Curitiba',
+//         title: 'Brazil',
+//         src: 'http://lorempixel.com/1000/900/sports',
+//         thumbnail: 'http://lorempixel.com/100/90/sports',
+//         w: 1000,
+//         h: 900
+//     },
+//     {
+//         idx: 'New York',
+//         title: 'United States',
+//         src: 'http://lorempixel.com/1000/900/animals',
+//         thumbnail: 'http://lorempixel.com/100/90/animals',
+//         w: 1000,
+//         h: 900
+//     },
+//     {
+//         idx: 'Tokyo',
+//         title: 'Japan',
+//         src: 'http://lorempixel.com/1000/900/nature',
+//         thumbnail: 'http://lorempixel.com/100/90/nature',
+//         w: 1000,
+//         h: 900
+//     }
+// ];
 
 class Photos extends React.Component {
     constructor(props) {
