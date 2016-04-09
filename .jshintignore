@@ -1,0 +1,12 @@
+bower_components/foundation-sites/assets/foundation.js
+bower_components/jQuery-switchButton/jquery.switchButton.js
+_assets/scripts/libs/jquery.history.js
+bower_components/waypoints/lib/jquery.waypoints.min.js
+_assets/scripts/libs/waypoints.infinite.custom.js
+bower_components/waypoints/lib/shortcuts/inview.min.js
+bower_components/waypoints/lib/shortcuts/sticky.min.js
+bower_components/rrssb/js/rrssb.js
+bower_components/headroom.js/dist/headroom.min.js
+bower_components/picturefill/dist/picturefill.min.js
+bower_components/cookie/cookie.min.js
+bower_components/lazysizes/lazysizes.min.js
